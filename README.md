@@ -36,6 +36,8 @@ ecommerce-sql-analysis/
 └── ecommerce_dashboard.pbix
 
 ## Deliverables
-- 12-page analysis report (PPT) with differentiated operation strategies
+- 12-page analysis report (PPT) with differentiated operation strategies：
+  https://www.canva.cn/design/DAHD6ArEIik/2XS636xIlQsaDPLYwYPVwQ/edit
+  utm_content=DAHD6ArEIik&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
 - SQL scripts for all analyses
 - Power BI interactive dashboard
