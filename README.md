@@ -11,6 +11,7 @@ This project analyzes user behavior on a UK e-commerce platform using the UCI On
 - Interactive Power BI dashboard for data visualization
 
 ## Dataset
+https://archive.ics.uci.edu/dataset/502/online+retail+ii
 | Item | Description |
 |------|-------------|
 | Source | UCI Machine Learning Repository - Online Retail II |
