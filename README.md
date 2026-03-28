@@ -26,13 +26,13 @@ https://archive.ics.uci.edu/dataset/502/online+retail+ii
 ## Project Structure
 ecommerce-sql-analysis/
 ├── README.md
-├── scripts/
+├── scripts/(Online_retail.sql)
 │ ├── 01_data_cleaning.sql
 │ ├── 02_rfm_analysis.sql
 │ ├── 03_retention_analysis.sql
 │ └── 04_funnel_analysis.sql
 ├── outputs/
-│ └── analysis_report.pdf
+│ └── analysis_report(PowerPoint)
 └── dashboard/
 └── ecommerce_dashboard.pbix
 
