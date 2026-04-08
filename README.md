@@ -33,7 +33,8 @@ https://archive.ics.uci.edu/dataset/502/online+retail+ii
 ## Project Structure
 ```text
 ecommerce-sql-analysis/
-├── README.md
+├── data/
+│ └── online_retail_II.xlsx
 ├── scripts/
 │ └── Online_retail.sql
 ├── outputs/
