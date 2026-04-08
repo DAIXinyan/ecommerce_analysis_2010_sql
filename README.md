@@ -24,13 +24,11 @@ https://archive.ics.uci.edu/dataset/502/online+retail+ii
 - **GitHub**: Version control
 
 ## Project Structure
+```text
 ecommerce-sql-analysis/
 ├── README.md
-├── scripts/(Online_retail.sql)
-│ ├── 01_data_cleaning.sql
-│ ├── 02_rfm_analysis.sql
-│ ├── 03_retention_analysis.sql
-│ └── 04_funnel_analysis.sql
+├── scripts/
+│ └── Online_retail.sql
 ├── outputs/
 │ └── analysis_report(PowerPoint)
 └── dashboard/
